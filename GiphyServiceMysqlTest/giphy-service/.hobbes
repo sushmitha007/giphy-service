@@ -1,0 +1,7 @@
+{
+  "workflow": "OpenJDK8MavenApp",
+  "scores": {
+    "cadetTests": 30,
+    "commanderTests":70
+  }
+}
